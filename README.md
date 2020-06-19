@@ -1,2 +1,2 @@
 # analog-design
-Design of analog circuits. Simulation includes lt spice.
+Design of analog circuits. Simulation is done in lt spice.
